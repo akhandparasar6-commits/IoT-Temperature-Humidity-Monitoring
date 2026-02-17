@@ -1,0 +1,8 @@
+NodeMCU and DHT11 Connections:
+
+DHT11:
+VCC  -> 3.3V
+GND  -> GND
+DATA -> D4
+
+Make sure to use a 10k pull-up resistor between VCC and DATA if required.
